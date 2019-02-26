@@ -1,3 +1,7 @@
 Hi there
 edited file
+<<<<<<< HEAD
 edited again
+=======
+edited from browser
+>>>>>>> a9cfe85012aeebafd3080e99604402934f3585a1
