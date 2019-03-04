@@ -1,7 +1,7 @@
 package firstproj;
 
 /**
- * Hello world!
+ * Its Monday! :(
  *
  */
 public class App 
